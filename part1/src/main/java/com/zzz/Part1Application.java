@@ -14,10 +14,10 @@ public class Part1Application {
         SpringApplication.run(Part1Application.class, args);
     }
 
-    @RequestMapping("/")
-    public String index(){
-        return "hello springboot !";
-    }
+//    @RequestMapping("/")
+//    public String index(){
+//        return "hello springboot !";
+//    }
 
 
 }

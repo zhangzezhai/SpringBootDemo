@@ -4,7 +4,8 @@ springboot学习系列demo，将知识点细化成不同demo，配上讲解文�
 
 
 ## 博文对应源码
-- [SpringBoot剑指offer系列—（一）华丽入门篇](https://mp.weixin.qq.com/s/D2zj94eBvDvUDTzSbmXV6Q) part1
+- [SpringBoot系列—（一）华丽入门篇](https://mp.weixin.qq.com/s/D2zj94eBvDvUDTzSbmXV6Q) part1
+- [SpringBoot系列-（二）配置文件解析篇]（https://mp.weixin.qq.com/s/naYwXmbP4PvM2XC8ixwcKg） part2
 
 ## 作者相关
 - 公众号： Java开发训练营 

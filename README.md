@@ -6,6 +6,7 @@ springboot学习系列demo，将知识点细化成不同demo，配上讲解文�
 ## 博文对应源码
 - [SpringBoot系列:（一）华丽入门篇](https://mp.weixin.qq.com/s/D2zj94eBvDvUDTzSbmXV6Q) part1
 - [SpringBoot系列:（二）配置文件解析篇](https://mp.weixin.qq.com/s/naYwXmbP4PvM2XC8ixwcKg) part2
+- [SpringBoot系列:（四）Thymeleaf整合一个种子项目](https://mp.weixin.qq.com/s/4vG8gnC-PULX6okbvD19BQ) part4
 
 ## 作者相关
 - 公众号： Java开发训练营 
